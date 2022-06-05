@@ -1,17 +1,26 @@
 body {
-  width: 100%;
+  width: 960px;
+  margin: 0 auto;
   height: 100%;
-  margin: 0;
+  
 }
 h1 {
   text-align: center;
   margin: auto;
 
 }
-nav a {
-position: relative;
+nav {
+margin: auto;
+width: 500px;
 display: block;
-max-width: 700px;
-margin: 0 auto;
+overflow: auto;
+background-color: grey;
  
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
 }
